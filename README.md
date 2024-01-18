@@ -1,5 +1,8 @@
 ### Hi there 👋
-This is my private repository.
+this is my public repository. i am an open source coder. you can find my active projects here!
+
+# support me by donations
+buy me a coffee! :) [click here to donate!](https://www.buymeacoffee.com/tusharjain1082)
 
 <!--
 **tusharjain1082/tusharjain1082** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

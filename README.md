@@ -1,6 +1,11 @@
 ### Hi there 👋
 this is my public repository. i am an open source coder. you can find my active projects here!
 
+hi there! i am Tushar! :) i am an open source visual studio, .net, and c# programmer. i love to create free and open source rare and useful applications. i am currently working on my project DiaryJournal.Net.
+
+i created DiaryJournal.Net application for daily journaling and notes taking needs. DiaryJournal.Net is all coded by me. DiaryJournal.Net is an open source and free desktop/laptop diary and journal software project for latest Visual Studio 2022, Windows 10/11 and .Net 8.0. includes precompiled program files to use as your diary/journal application, which is also specialized as an educational, office, research, and all purpose notebook software.
+
+
 # support me by donations
 buy me a coffee! :) [click here to donate!](https://www.buymeacoffee.com/tusharjain1082)
 

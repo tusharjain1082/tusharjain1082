@@ -6,7 +6,9 @@ hi there! i am Tushar! :) i am an open source visual studio, .net, and c# progra
 i created DiaryJournal.Net application for daily journaling and notes taking needs. DiaryJournal.Net is all coded by me. DiaryJournal.Net is an open source and free desktop/laptop diary and journal software project for latest Visual Studio 2022, Windows 10/11 and .Net 8.0. includes precompiled program files to use as your diary/journal application, which is also specialized as an educational, office, research, and all purpose notebook software.
 
 ### please support DiaryJournal.Net
-if you like DiaryJournal.Net and find it worthy, you can support DiaryJournal.Net by just anything. if you find it worthy and wish to donate for DiaryJournal.Net, [please click here to donate to my donations account: https://www.buymeacoffee.com/tusharjain1082](https://www.buymeacoffee.com/tusharjain1082)
+if you like DiaryJournal.Net and find it worthy, you can support DiaryJournal.Net by just anything. if you find it worthy and wish to donate for DiaryJournal.Net, 
+1. [please click here to donate to my donations account 1: https://ko-fi.com/tusharjain1082](https://ko-fi.com/tusharjain1082).
+2. [please click here to donate to my donations account 2 (you can use paypal): https://www.buymeacoffee.com/tusharjain1082](https://www.buymeacoffee.com/tusharjain1082).
 
 <!--
 **tusharjain1082/tusharjain1082** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
